@@ -1,0 +1,4 @@
+frelatage==0.1.7
+stringtools==3.0.1
+validators==0.18.2
+AdvancedHTMLParser==9.0.2
